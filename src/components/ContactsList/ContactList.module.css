@@ -1,0 +1,24 @@
+.items {
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.items .span {
+  gap: 10px;
+  margin-top: 200px;
+}
+.itemBtn {
+  margin-left: 10px;
+  width: 60px;
+  color: #090909;
+  outline: none;
+  border-radius: 40px;
+  background: #e0edf0;
+  border: 1px solid #e8e8e8;
+  transition: all 0.3s;
+  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+  cursor: pointer;
+}
+.button:hover {
+  box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+}

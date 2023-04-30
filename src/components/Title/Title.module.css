@@ -1,0 +1,16 @@
+/* .container {
+} */
+.title {
+  font-size: 36px;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  /* color: #323131; */
+  color: #090909;
+}
+
+.filterTitle {
+  color: rgb(83, 89, 89);
+  margin: 0;
+  padding-bottom: 15px;
+}
